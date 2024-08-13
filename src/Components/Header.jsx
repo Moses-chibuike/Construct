@@ -113,8 +113,12 @@ function Header() {
                   >
                     <Link
                       to="/"
-                      className="dropdown-item text-small"
-                      href="index.html"
+                      className="nav-link active"
+                      onClick={() => {
+                        setTimeout(() => {
+                          window.location.reload();
+                        }, 1);
+                      }}
                     >
                       Home
                     </Link>
