@@ -96,6 +96,16 @@ function Header() {
                     Contact
                   </Link>
                 </li>
+                <li className="nav-item mx-2">
+                  <Link to="/contact" className="nav-link" href="contact.html">
+                    Careers
+                  </Link>
+                </li>
+                <li className="nav-item mx-2">
+                  <Link to="/About" className="nav-link" href="About.html">
+                    About Us
+                  </Link>
+                </li>
                 <li className="nav-item ml-2 dropdown">
                   <a
                     className="nav-link dropdown-toggle pr-0"
@@ -105,7 +115,7 @@ function Header() {
                     aria-haspopup="true"
                     aria-expanded="false"
                   >
-                    All Pages
+                    All Projects
                   </a>
                   <div
                     className="dropdown-menu dropdown-menu-right mt-lg-4"

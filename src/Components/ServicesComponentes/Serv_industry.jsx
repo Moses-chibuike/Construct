@@ -20,10 +20,10 @@ function Serv_industry() {
                 </svg>
               </div>
               <div className="ml-3">
-                <h2 className="h5 mb-0"> <a className="reset-anchor" href="#">Kitchen remodelling</a></h2>
+                <h2 className="h5 mb-0"> <a className="reset-anchor" href="#">Gold Mining</a></h2>
                 <ul className="list-inline text-muted text-small mb-0">
-                  <li className="list-inline-item">Factory, </li>
-                  <li className="list-inline-item">Industry</li>
+                  <li className="list-inline-item">Extraction, </li>
+                  <li className="list-inline-item">Processing</li>
                 </ul>
               </div>
             </div>
@@ -43,10 +43,10 @@ function Serv_industry() {
                 </svg>
               </div>
               <div className="ml-3">
-                <h2 className="h5 mb-0"> <a className="reset-anchor" href="#">Home renovation</a></h2>
+                <h2 className="h5 mb-0"> <a className="reset-anchor" href="#">Gold Refining</a></h2>
                 <ul className="list-inline text-muted text-small mb-0">
-                  <li className="list-inline-item">Factory, </li>
-                  <li className="list-inline-item">Industry</li>
+                  <li className="list-inline-item">Purification, </li>
+                  <li className="list-inline-item">Quality Assurance</li>
                 </ul>
               </div>
             </div>
@@ -66,10 +66,10 @@ function Serv_industry() {
                 </svg>
               </div>
               <div className="ml-3">
-                <h2 className="h5 mb-0"> <a className="reset-anchor" href="#">Home repair</a></h2>
+                <h2 className="h5 mb-0"> <a className="reset-anchor" href="#">Gold Trading</a></h2>
                 <ul className="list-inline text-muted text-small mb-0">
-                  <li className="list-inline-item">Factory, </li>
-                  <li className="list-inline-item">Industry</li>
+                  <li className="list-inline-item">Market Analysis, </li>
+                  <li className="list-inline-item">Global Reach</li>
                 </ul>
               </div>
             </div>
