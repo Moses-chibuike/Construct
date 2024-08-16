@@ -74,17 +74,12 @@ function Header() {
             >
               <ul className="navbar-nav ml-auto">
                 <li className="nav-item mx-2">
-                  <Link
-                    to="/"
-                    className="nav-link active"
-                    onClick={() => {
-                      setTimeout(() => {
-                        window.location.reload();
-                      }, 1);
-                    }}
-                  >
-                    Home
-                  </Link>
+                  <a
+  href="/"
+  className="nav-link active"
+>
+  Home
+</a>
                 </li>
                 <li className="nav-item mx-2">
                   <Link to="/services" className="nav-link">
@@ -97,12 +92,12 @@ function Header() {
                   </Link>
                 </li>
                 <li className="nav-item mx-2">
-                  <Link to="/contact" className="nav-link" href="contact.html">
+                  <Link to="/Career" className="nav-link" href="Career.html">
                     Careers
                   </Link>
                 </li>
                 <li className="nav-item mx-2">
-                  <Link to="/About" className="nav-link" href="About.html">
+                  <Link to="/AboutUs" className="nav-link" href="AboutUs.html">
                     About Us
                   </Link>
                 </li>
@@ -121,31 +116,20 @@ function Header() {
                     className="dropdown-menu dropdown-menu-right mt-lg-4"
                     aria-labelledby="navbarDropdownMenuLink"
                   >
-                    <Link
-                      to="/"
-                      className="nav-link active"
-                      onClick={() => {
-                        setTimeout(() => {
-                          window.location.reload();
-                        }, 1);
-                      }}
-                    >
-                      Home
-                    </Link>
 
                     <Link
-                      to="/services"
+                      to="/Africas"
                       className="dropdown-item text-small"
                       href="services.html"
                     >
-                      Services
+                      Africa
                     </Link>
                     <Link
-                      to="/contact"
+                      to="/Americas"
                       className="dropdown-item text-small"
                       href="contact.html"
                     >
-                      Contact{" "}
+                      America{" "}
                     </Link>
                   </div>
                 </li>

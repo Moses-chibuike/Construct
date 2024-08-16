@@ -3,7 +3,10 @@ import './App.css';
 import Footer from './Components/Footer';
 import Header from './Components/Header';
 import Contact from './Pages/Contact';
-
+import AboutUs from './Pages/AboutUs';
+import Career from './Pages/Career';
+import Africas from './Pages/Africas';
+import Americas from './Pages/Americas';
 import Home from './Pages/Home';
 import Services from './Pages/Services';
 
@@ -30,6 +33,14 @@ function App() {
           </Route>
           <Route path="/Contact" component={Contact}>
             <Contact/>
+          </Route>
+          <Route path="/AboutUs" component={AboutUs}>
+          </Route>
+          <Route path="/Career" component={Career}>
+          </Route>
+          <Route path="/Africas" component={Africas}>
+          </Route>
+          <Route path="/Americas" component={Americas}>
           </Route>
         </Switch>
       
