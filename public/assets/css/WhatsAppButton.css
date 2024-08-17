@@ -1,0 +1,29 @@
+.whatsapp-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #eeb405;
+    color: white;
+    border-radius: 30px; /* Make the button rounder */
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.3);
+    z-index: 1000; /* Ensure it's on top of other elements */
+    text-decoration: none; /* Remove underline from the link */
+    font-weight: bold;
+}
+
+.whatsapp-button:hover {
+    background-color: #ffffff;
+}
+
+.whatsapp-icon {
+    font-size: 24px;
+    margin-right: 10px; /* Space between icon and text */
+}
+
+.whatsapp-text {
+    font-size: 16px;
+}

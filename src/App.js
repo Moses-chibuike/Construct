@@ -1,4 +1,3 @@
-
 import './App.css';
 import Footer from './Components/Footer';
 import Header from './Components/Header';
@@ -9,46 +8,32 @@ import Africas from './Pages/Africas';
 import Americas from './Pages/Americas';
 import Home from './Pages/Home';
 import Services from './Pages/Services';
+import WhatsAppButton from './Components/WhatsAppButton';
 
 import {
   BrowserRouter as Router,
   Switch,
   Route,
-  
 } from "react-router-dom";
 
 function App() {
   return (
-
     <>
-    <Router>
-    <Header/>
-  
-    <Switch>
-          <Route exact path="/" component={Home}>
-            <Home />
-          </Route>
-          <Route path="/services" component={Services}>
-            <Services/>
-          </Route>
-          <Route path="/Contact" component={Contact}>
-            <Contact/>
-          </Route>
-          <Route path="/AboutUs" component={AboutUs}>
-          </Route>
-          <Route path="/Career" component={Career}>
-          </Route>
-          <Route path="/Africas" component={Africas}>
-          </Route>
-          <Route path="/Americas" component={Americas}>
-          </Route>
+      <Router>
+        <Header />
+        <Switch>
+          <Route exact path="/" component={Home} />
+          <Route path="/services" component={Services} />
+          <Route path="/contact" component={Contact} />
+          <Route path="/aboutus" component={AboutUs} />
+          <Route path="/career" component={Career} />
+          <Route path="/africas" component={Africas} />
+          <Route path="/americas" component={Americas} />
         </Switch>
-      
-    </Router>
-
-    <Footer/>
+        <WhatsAppButton /> {/* Ensure this is outside the Switch to show on all pages */}
+        <Footer />
+      </Router>
     </>
-   
   );
 }
 
