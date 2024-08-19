@@ -24,7 +24,7 @@ function Work() {
                   <div className="box-overlay box-overlay-primary">
                     <a className="d-block w-100 h-100" href="#" />
                   </div>
-                  <img className="w-100" src="assets/img/services-1.jpg" alt="Gold Mine Expansion" />
+                  <img className="w-100" src="assets/img/work1.jpg" alt="Gold Mine Expansion" />
                 </div>
                 <div className="p-4 bg-dark text-white">
                   <h3 className="h5">
@@ -43,7 +43,7 @@ function Work() {
                   <div className="box-overlay box-overlay-primary">
                     <a className="d-block w-100 h-100" href="#" />
                   </div>
-                  <img className="w-100" src="assets/img/services-2.jpg" alt="Gold Refinement Process" />
+                  <img className="w-100" src="assets/img/work2.jpg" alt="Gold Refinement Process" />
                 </div>
                 <div className="p-4 bg-dark text-white">
                   <h3 className="h5">
@@ -62,7 +62,7 @@ function Work() {
                   <div className="box-overlay box-overlay-primary">
                     <a className="d-block w-100 h-100" href="#" />
                   </div>
-                  <img className="w-100" src="assets/img/services-3.jpg" alt="Environmental Sustainability" />
+                  <img className="w-100" src="assets/img/work3.jpg" alt="Environmental Sustainability" />
                 </div>
                 <div className="p-4 bg-dark text-white">
                   <h3 className="h5">
