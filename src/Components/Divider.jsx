@@ -13,13 +13,11 @@ function Divider() {
               <div className="row align-items-center">
                 <div className="col-lg-7 text-center text-lg-left mb-4 mb-lg-0">
                   <h2 className="h3 mb-3">
-                    Trusted Construction{' '}
-                    <span className="text-primary">Since 1889</span>
+                    Trusted Mining{' '}
+                    <span className="text-primary">Since 1989</span>
                   </h2>
                   <p className="text-small mb-0">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                    enim ad minim veniam.
+                    Association Minière du Mali has been a leading force in the mining industry for over 30 years, committed to excellence and sustainable practices.
                   </p>
                 </div>
                 <div className="col-lg-5 text-center text-lg-right">

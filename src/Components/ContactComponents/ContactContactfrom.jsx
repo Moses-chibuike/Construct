@@ -69,15 +69,15 @@ function ContactContactForm() {
                 <ul className="list-unstyled mb-0">
                   <li>
                     <h5 className="text-muted">Address</h5>
-                    <p className="text-muted">1798 Pretty View Lane, California</p>
+                    <p className="text-muted">Rue 265, Porte 103, Bamako, Mali</p>
                   </li>
                   <li>
                     <h5 className="text-muted">Email</h5>
-                    <p className="text-muted">Construction@example.com</p>
+                    <p className="text-muted">associationminieredumali@zohomail.com</p>
                   </li>
                   <li>
                     <h5 className="text-muted">Phone</h5>
-                    <p className="text-muted">+535 421 895 6523</p>
+                    <p className="text-muted">+223 93 43 42 12</p>
                   </li>
                 </ul>
               </div>

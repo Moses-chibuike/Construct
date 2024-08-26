@@ -37,9 +37,9 @@ function Careers() {
         <div className="container py-5">
           <div className="row align-items-center">
             <div className="col-lg-12 mb-5 text-center">
-              <h2 className="display-4 mb-3" style={{ fontWeight: 'bold' }}>Why work at NewMAN Gold?</h2>
+              <h2 className="display-4 mb-3" style={{ fontWeight: 'bold' }}>Why work at AMDM?</h2>
               <p className="lead text-muted">
-                Join a team that's shaping the future of the gold industry.
+                Join a team that's shaping the future of the mining industry.
               </p>
             </div>
           </div>
@@ -48,7 +48,7 @@ function Careers() {
               <div className="p-4 bg-white shadow-sm mb-4">
                 <h4 className="h5" style={{ fontWeight: 'bold' }}>Innovation</h4>
                 <p className="text-muted">
-                  Be part of a company that prioritizes innovation, adopting the latest technologies to revolutionize the gold industry.
+                  Be part of a company that prioritizes innovation, adopting the latest technologies to revolutionize the mining industry.
                 </p>
               </div>
             </div>
@@ -128,9 +128,9 @@ function Careers() {
             {/* Job Opening 1 */}
             <div className="col-lg-6 mb-4">
               <div className="p-4 bg-white shadow-sm">
-                <h3 className="h5">Gold Mining Engineer</h3>
+                <h3 className="h5">Mining Engineer</h3>
                 <p className="text-muted">
-                  Location: Nevada, USA <br />
+                  Location: Bamako, Mali <br />
                   Experience: 5+ years <br />
                   Employment Type: Full-Time
                 </p>

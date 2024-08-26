@@ -14,7 +14,7 @@ function Header() {
                     <a className="reset-anchor" href="#">
                       <i className="fas fa-mobile mr-2" />
                       <span className="font-weight-normal text-small">
-                        +535 421 895 6523
+                        +223 661 55100
                       </span>
                     </a>
                   </li>
@@ -22,7 +22,7 @@ function Header() {
                     <a className="reset-anchor" href="#">
                       <i className="fas fa-envelope mr-2" />
                       <span className="font-weight-normal text-small">
-                        Construction@example.com
+                      associationminieredumali@zohomail.com
                       </span>
                     </a>
                   </li>

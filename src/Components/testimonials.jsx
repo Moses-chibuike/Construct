@@ -12,7 +12,7 @@ function Testimonials() {
                   What <span className="text-primary">our clients</span> say
                 </h2>
                 <p className="text-muted">
-                  Hear from our satisfied clients who have experienced the exceptional quality and service of Newman Gold Company.
+                  Hear from our satisfied clients who have experienced the exceptional quality and service of Association Minière du Mali.
                 </p>
               </div>
             </div>
@@ -35,7 +35,7 @@ function Testimonials() {
                         <li className="list-inline-item m-0"><i className="fas fa-star text-warning" /></li>
                       </ul>
                       <p className="text-small text-muted">
-                        "Newman Gold Company has provided us with outstanding gold products that truly exceed expectations. Their attention to detail and customer service are top-notch."
+                        "Association Minière du Mali has provided us with outstanding gold products and services that truly exceed expectations. Their commitment to quality and customer service is unmatched."
                       </p>
                       <h6 className="mb-0">- Emily Johnson</h6>
                     </div>
@@ -63,7 +63,7 @@ function Testimonials() {
                         <li className="list-inline-item m-0"><i className="fas fa-star text-warning" /></li>
                       </ul>
                       <p className="text-small text-muted">
-                        "The professionalism and reliability of Newman Gold Company have made them our go-to provider for all our gold investment needs. Highly recommended!"
+                        "The professionalism and reliability of Association Minière du Mali have made them our preferred partner for all our gold-related investments. Their expertise is second to none."
                       </p>
                       <h6 className="mb-0">- Michael Smith</h6>
                     </div>
@@ -91,7 +91,7 @@ function Testimonials() {
                         <li className="list-inline-item m-0"><i className="fas fa-star text-warning" /></li>
                       </ul>
                       <p className="text-small text-muted">
-                        "The quality of gold and the service provided by Newman Gold Company are unparalleled. They have consistently delivered top-quality products that meet our high standards."
+                        "The quality of the gold products and services provided by Association Minière du Mali is truly outstanding. They have consistently delivered results that exceed our high standards."
                       </p>
                       <h6 className="mb-0">- Olivia Brown</h6>
                     </div>
@@ -119,7 +119,7 @@ function Testimonials() {
                         <li className="list-inline-item m-0"><i className="fas fa-star text-warning" /></li>
                       </ul>
                       <p className="text-small text-muted">
-                        "We have had an excellent experience with Newman Gold Company. Their team is knowledgeable, and their gold products are of the highest quality."
+                        "Working with Association Minière du Mali has been an excellent experience. Their team is knowledgeable, and their gold products are of the highest quality."
                       </p>
                       <h6 className="mb-0">- Ava Martinez</h6>
                     </div>

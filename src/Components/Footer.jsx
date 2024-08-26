@@ -3,26 +3,35 @@ import React from 'react';
 function Footer() {
   return (
     <>
-      <footer className="text-white bg-cover bg-center" style={{ background: 'url(assets/img/hero-banner-1.jpg)' }}>
+      <footer
+        className="text-white bg-cover bg-center"
+        style={{ background: 'url(assets/img/hero-banner-1.jpg)' }}
+      >
         <div className="dark-overlay">
           <div className="overlay-content">
             <div className="container py-5">
               <div className="row py-5">
                 <div className="col-lg-4 col-md-6">
                   <p className="text-light text-small mb-4">
-                    <strong>Newman Gold Company</strong> has been a trusted name in the gold industry for over 30 years, providing premium gold products and services with a commitment to quality and customer satisfaction.
+                    <strong>AMDM</strong> has been a trusted name in the gold industry for over 30 years, providing premium gold products and services with a commitment to quality and customer satisfaction.
                   </p>
                   <p className="mb-1">
                     <i className="fas fa-envelope mr-3 text-primary fa-fw" />
-                    <span className="text-small"><strong>info@newmangold.com</strong></span>
+                    <span className="text-small">
+                      <strong>associationminieredumali@zohomail.com</strong>
+                    </span>
                   </p>
                   <p className="mb-1">
                     <i className="fas fa-mobile mr-3 text-primary fa-fw" />
-                    <span className="text-small"><strong>+1 555 123 4567</strong></span>
+                    <span className="text-small">
+                      <strong>+223 661 55100</strong>
+                    </span>
                   </p>
                   <p className="mb-1">
                     <i className="fas fa-map-marker-alt mr-3 text-primary fa-fw" />
-                    <span className="text-small"><strong>123 Gold Street, New York, NY 10001</strong></span>
+                    <span className="text-small">
+                      <strong>123 Gold Street, New York, NY 10001</strong>
+                    </span>
                   </p>
                 </div>
                 <div className="col-lg-2 col-md-6">
@@ -91,7 +100,7 @@ function Footer() {
                 <p className="mb-0 text-white text-small">
                   © All rights reserved. Powered by{' '}
                   <a href="https://newmangold.com" className="text-white">
-                    <strong>Newman Gold Company</strong>
+                    <strong>Association Minière du Mali</strong>
                   </a>.
                 </p>
               </div>
