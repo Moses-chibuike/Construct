@@ -31,7 +31,7 @@ function Serv_Service() {
                       </div>
                       <div className="ml-3">
                         <h2 className="h5 mb-0">
-                          <a className="reset-anchor" href="#">Gold Mining Operations</a>
+                          <a className="reset-anchor" href="#">Gold Mining Operations2</a>
                         </h2>
                         <ul className="list-inline text-muted text-small mb-0">
                           <li className="list-inline-item">Extraction</li>
