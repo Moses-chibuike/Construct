@@ -31,7 +31,7 @@ function Serv_Service() {
                       </div>
                       <div className="ml-3">
                         <h2 className="h5 mb-0">
-                          <a className="reset-anchor" href="#">Gold Mining Operations2</a>
+                          <a className="reset-anchor" href="#">Gold Mining Operations</a>
                         </h2>
                         <ul className="list-inline text-muted text-small mb-0">
                           <li className="list-inline-item">Extraction</li>
@@ -86,7 +86,7 @@ function Serv_Service() {
                       <a href="#">
                         <img
                           className="w-100"
-                          src="assets/img/services-item-3.jpg"
+                          src="assets/img/services-item-3.png"
                           alt="Gold Investment Services"
                         />
                       </a>

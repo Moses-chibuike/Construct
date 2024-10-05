@@ -42,7 +42,7 @@ function Header() {
                   <li className="list-inline-item">
                     <a
                       className="font-weight-bold text-small reset-anchor"
-                      href="#"
+                      href="contact.html"
                     >
                       Contact
                     </a>
