@@ -42,7 +42,7 @@ function Projects() {
                 <div className="col-lg-6">
                   <img
                     className="img-fluid shadow-sm"
-                    src="assets/img/services-item-1.jpg"
+                    src="assets/img/services-item-11.jpg"
                     alt="Project in Egypt"
                   />
                 </div>
@@ -102,7 +102,7 @@ function Projects() {
                 <div className="col-lg-6">
                   <img
                     className="img-fluid shadow-sm"
-                    src="assets/img/services-item-1.jpg"
+                    src="assets/img/services-item-12.jpg"
                     alt="Project in Nigeria"
                   />
                 </div>
@@ -122,7 +122,7 @@ function Projects() {
                 <div className="col-lg-6">
                   <img
                     className="img-fluid shadow-sm"
-                    src="assets/img/services-item-2.jpg"
+                    src="assets/img/services-item-13.jpg"
                     alt="Project in Tanzania"
                   />
                 </div>
@@ -142,7 +142,7 @@ function Projects() {
                 <div className="col-lg-6">
                   <img
                     className="img-fluid shadow-sm"
-                    src="assets/img/services-item-3.jpg"
+                    src="assets/img/services-item-14.jpg"
                     alt="Project in Zimbabwe"
                   />
                 </div>
@@ -182,7 +182,7 @@ function Projects() {
                 <div className="col-lg-6">
                   <img
                     className="img-fluid shadow-sm"
-                    src="assets/img/services-item-2.jpg"
+                    src="assets/img/services-item-15.jpg"
                     alt="Project in Sudan"
                   />
                 </div>
@@ -202,7 +202,7 @@ function Projects() {
                 <div className="col-lg-6">
                   <img
                     className="img-fluid shadow-sm"
-                    src="assets/img/services-item-3.jpg"
+                    src="assets/img/services-item-16.jpg"
                     alt="Project in Angola"
                   />
                 </div>
