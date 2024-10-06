@@ -42,7 +42,7 @@ function Header() {
                   <li className="list-inline-item">
                     <a
                       className="font-weight-bold text-small reset-anchor"
-                      href="contact.html"
+                      href="/contact.html"
                     >
                       Contact
                     </a>
@@ -54,7 +54,7 @@ function Header() {
         </div>
         <nav className="navbar navbar-expand-lg navbar-light py-3 bg-white">
           <div className="container">
-            <a className="navbar-brand" href="index.html">
+            <a className="navbar-brand" href="/">
               <img src="/assets/img/logo.png" alt width={150} />
             </a>
             <button
