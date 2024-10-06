@@ -30,7 +30,7 @@ function Footer() {
                   <p className="mb-1">
                     <i className="fas fa-map-marker-alt mr-3 text-primary fa-fw" />
                     <span className="text-small">
-                      <strong>123 Gold Street, New York, NY 10001</strong>
+                      <strong>Rue 265, Porte 103, Bamako, Mali</strong>
                     </span>
                   </p>
                 </div>
