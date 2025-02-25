@@ -77,7 +77,7 @@ function ContactContactForm() {
                   </li>
                   <li>
                     <h5 className="text-muted">Phone</h5>
-                    <p className="text-muted">+223 93 43 42 12</p>
+                    <p className="text-muted">+223 9595 1007</p>
                   </li>
                 </ul>
               </div>
